@@ -1,8 +1,21 @@
 body {
-    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
-    background-color: #f3f3f3;
-    color: #333;
-    font-size: 16px;
-    direction: ltr;
+    background-color: #F1F3F5;
 }
 
+.top{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 4em;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.search {
+    text-align: center;
+}
